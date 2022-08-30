@@ -1,2 +1,2 @@
-echo ALX School
-echo Alx school is cool!
+#!/bin/bash
+echo ALX School is so cool!
